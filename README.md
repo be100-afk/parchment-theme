@@ -1,10 +1,10 @@
-# parchment-theme
-Parchment theme for journals and spell scrolls in FVTT
+# Parchment Theme for Scrolls & Journals
+
 This Foundry VTT module adds a parchment-style theme to:
 - PF2e spell scroll item sheets  
 - All journal entry pages  
 
-It is lightweight and CSS-only, so it does not affect performance or require any system patches.
+It is lightweight and CSS-only, so it does not affect performance or require system patches.
 
 ---
 
@@ -12,12 +12,36 @@ It is lightweight and CSS-only, so it does not affect performance or require any
 
 - Parchment background texture for journals  
 - Automatic parchment theme only for PF2e scroll items  
-- Custom borders, padding, and soft shadowed look  
-- Easy to customize by editing the CSS file
+- Soft borders, padding, and shadow  
+- Easy to customize through CSS  
 
 ---
 
 ## 📦 Installation (Manifest URL)
 
-Paste the following URL into **Foundry → Add-on Modules → Install Module**:
+Paste this into Foundry → Add-on Modules → Install Module:
+
+```
 https://be100-afk.github.io/parchment-theme/module.json
+```
+
+---
+
+## 🎨 Customization
+
+Edit:
+
+```
+styles/parchment.css
+```
+
+Change textures, shadows, borders, or item targeting.
+
+---
+
+## Compatibility
+
+- Foundry VTT v10+  
+- PF2e system v5+  
+
+---
