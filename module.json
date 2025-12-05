@@ -1,25 +1,21 @@
 {
   "id": "parchment-theme",
   "title": "Parchment Theme for Scrolls & Journals",
-  "description": "Adds a parchment background theme to scrolls and journal entries.",
+  "description": "Adds a parchment background theme to PF2e scrolls and journal entries.",
   "version": "1.0.0",
-
   "compatibility": {
     "minimum": "10",
     "verified": "12"
   },
-
   "authors": [
     {
-      "name": "R Eccles",
+      "name": "be100-afk",
       "url": "https://github.com/be100-afk"
     }
   ],
-
   "url": "https://github.com/be100-afk/parchment-theme",
   "manifest": "https://be100-afk.github.io/parchment-theme/module.json",
   "download": "https://github.com/be100-afk/parchment-theme/archive/refs/tags/1.0.0.zip",
-
   "styles": [
     "styles/parchment.css"
   ],
